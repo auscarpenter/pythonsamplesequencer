@@ -1,4 +1,4 @@
 # pythonsamplesequencer
 sample sequencer for raspberry pi
 
-https://youtu.be/zX5hSGyLj7c 
+Video Example here! https://youtu.be/zX5hSGyLj7c 
